@@ -8,7 +8,6 @@ Plataforma de inspiração visual estilo Pinterest, construída com HTML5, CSS3,
 - 🔐 Autenticação com Google e Email via Supabase
 - 💾 Sistema de salvos e favoritos sincronizados
 - 🔍 Busca e filtros em tempo real
-- 📱 Design responsivo (mobile-first)
 - ⚡ Sem framework JavaScript — apenas vanilla JS
 - 🌙 Dark theme completo
 
